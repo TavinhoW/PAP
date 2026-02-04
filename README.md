@@ -4,4 +4,4 @@ Fazer:
 
 2. Testes (RC Marcelo)
 
-3. Relatorio com os testes (PSI Andre Rolo)
+3. Relatorio (PSI Andre Rolo)
